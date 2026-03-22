@@ -78,7 +78,7 @@ Les fichiers suivants sont générés automatiquement au premier usage (non vers
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/TON_PSEUDO/VintedScrap.git
+git clone https://github.com/Zxldrok/VintedScrap.git
 cd VintedScrap
 ```
 
